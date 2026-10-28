@@ -1,0 +1,6 @@
+{
+  "name": "Affiliate AI",
+  "description": "Aplikasi Android untuk membuat video affiliate produk dengan AI influencer dan konsistensi karakter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
